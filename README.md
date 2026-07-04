@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I am an **AI/ML Engineer** dedicated to building intelligent systems that bridge the gap between complex data and real-world impact. My core focus lies in **Natural Language Processing (NLP), Large Language Models (LLMs), and advanced RAG architectures**[cite: 1]. 
+I am an **AI/ML Engineer** dedicated to building intelligent systems that bridge the gap between complex data and real-world impact. My core focus lies in **Natural Language Processing (NLP), Large Language Models (LLMs), and advanced RAG architectures**. 
 
 Driven by a mission to develop robust AI solutions for underserved communities and low-resource languages[cite: 1], I focus on creating production-grade systems from scratch[cite: 1]—whether that means implementing core transformer architectures in PyTorch[cite: 1] or deploying bilingual conversational agents[cite: 1].
 

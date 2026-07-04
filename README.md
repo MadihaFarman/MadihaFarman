@@ -53,8 +53,7 @@ Driven by a mission to develop robust AI solutions for underserved communities a
 * Built an intelligent judicial pipeline combining a **RAG engine** with two custom **ML ensemble models** trained on **2,809 Supreme Court judgments**.
 * Achieved **91.5% accuracy** in case classification and **95.2% accuracy** in priority prediction, reducing manual case review effort by **70%**..
 
-### 🗣️ [KUST AI Assistant (Bilingual RAG Chatbot)](https://github.com/MadihaFarman/KUST-AI-Assistant
-)
+### 🗣️ [KUST AI Assistant (Bilingual RAG Chatbot)](https://github.com/MadihaFarman/KUST-AI-Assistant)
 > **Stack:** Python, FastAPI, Pinecone, OpenAI API, Whisper, Next.js.
 * Developed an end-to-end bilingual assistant answering queries on complex university regulations with native support for English, Urdu script, and Roman Urdu.
 * Optimized retrieval using **HyDE (Hypothetical Document Embeddings)** and custom parent-child chunking strategies to handle vague search inputs perfectly.

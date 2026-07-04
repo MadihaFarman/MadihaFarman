@@ -68,8 +68,8 @@ Driven by a mission to develop robust AI solutions for underserved communities a
 ## 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadihaFarman&show_icons=true&theme=tokyonight&count_private=true" alt="Madiha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaFarman&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadihaFarman&show_icons=true&theme=tokyonight&count_private=true" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaFarman&layout=compact&theme=tokyonight" alt="" width="48%" />
 </p>
 
 <p align="center">

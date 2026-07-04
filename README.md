@@ -7,11 +7,11 @@
 ## 💫 About Me
 I am an **AI/ML Engineer** dedicated to building intelligent systems that bridge the gap between complex data and real-world impact. My core focus lies in **Natural Language Processing (NLP), Large Language Models (LLMs), and advanced RAG architectures**. 
 
-Driven by a mission to develop robust AI solutions for underserved communities and low-resource languages[cite: 1], I focus on creating production-grade systems from scratch[cite: 1]—whether that means implementing core transformer architectures in PyTorch[cite: 1] or deploying bilingual conversational agents[cite: 1].
+Driven by a mission to develop robust AI solutions for underserved communities and low-resource languages, I focus on creating production-grade systems from scratch, whether that means implementing core transformer architectures in PyTorch or deploying bilingual conversational agents.
 
-* 🎓 **Education:** BS in Computer Science at Kohat University of Science and Technology (Ranked 1st in a class of 200+, CGPA: 4.0/4.0)[cite: 1]
-* 💼 **Current Focus:** Advanced RAG optimization, query decomposition architectures, and Agentic AI[cite: 1]
-* 🌍 **Languages:** Urdu, Pashto, English[cite: 1]
+* 🎓 **Education:** BS in Computer Science at Kohat University of Science and Technology (Ranked 1st in a class of 200+, CGPA: 4.0/4.0).
+* 💼 **Current Focus:** Advanced RAG optimization, query decomposition architectures, and Agentic AI.
+* 🌍 **Languages:** Urdu, Pashto, English.
 
 ---
 
@@ -49,20 +49,20 @@ Driven by a mission to develop robust AI solutions for underserved communities a
 ## 🧪 Featured Projects
 
 ### 🏛️ [AI Legal Case Management System](https://github.com/MadihaFarman/ai-powered-legal-case-management-sys)
-> **Stack:** Python, TF-IDF Ensemble Models, HuggingFace, LLaMA-3.1-8B, Streamlit[cite: 1]
-* Built an intelligent judicial pipeline combining a **RAG engine** with two custom **ML ensemble models** trained on **2,809 Supreme Court judgments**[cite: 1].
-* Achieved **91.5% accuracy** in case classification and **95.2% accuracy** in priority prediction, reducing manual case review effort by **70%**[cite: 1].
+> **Stack:** Python, TF-IDF Ensemble Models, HuggingFace, LLaMA-3.1-8B, Streamlit
+* Built an intelligent judicial pipeline combining a **RAG engine** with two custom **ML ensemble models** trained on **2,809 Supreme Court judgments**.
+* Achieved **91.5% accuracy** in case classification and **95.2% accuracy** in priority prediction, reducing manual case review effort by **70%**..
 
 ### 🗣️ [KUST AI Assistant (Bilingual RAG Chatbot)](https://github.com/MadihaFarman/KUST-AI-Assistant
 )
-> **Stack:** Python, FastAPI, Pinecone, OpenAI API, Whisper, Next.js[cite: 1]
-* Developed an end-to-end bilingual assistant answering queries on complex university regulations with native support for English, Urdu script, and Roman Urdu[cite: 1].
-* Optimized retrieval using **HyDE (Hypothetical Document Embeddings)** and custom parent-child chunking strategies to handle vague search inputs perfectly[cite: 1].
+> **Stack:** Python, FastAPI, Pinecone, OpenAI API, Whisper, Next.js.
+* Developed an end-to-end bilingual assistant answering queries on complex university regulations with native support for English, Urdu script, and Roman Urdu.
+* Optimized retrieval using **HyDE (Hypothetical Document Embeddings)** and custom parent-child chunking strategies to handle vague search inputs perfectly.
 
 ### 🧠 [Transformer Architecture from Scratch](https://github.com/MadihaFarman/NLP-Basics-to-Advance-/blob/main/transformer_architecture_from_scratch.ipynb)
-> **Stack:** Python, PyTorch[cite: 1]
-* Implemented the complete architecture from the *"Attention Is All You Need"* paper without relying on any pre-built transformer layers[cite: 1].
-* Includes custom implementations of multi-head self-attention, positional encoding, embeddings, and the encoder-decoder stack[cite: 1].
+> **Stack:** Python, PyTorch.
+* Implemented the complete architecture from the *"Attention Is All You Need"* paper without relying on any pre-built transformer layers.
+* Includes custom implementations of multi-head self-attention, positional encoding, embeddings, and the encoder-decoder stack.
 
 ---
 
@@ -80,5 +80,5 @@ Driven by a mission to develop robust AI solutions for underserved communities a
 ---
 
 ## 🤝 Let's Connect!
-* **Email:** madihafarman22280@gmail.com[cite: 1]
+* **Email:** madihafarman22280@gmail.com.
 * **LinkedIn:** [linkedin.com/in/madiha-farman](https://linkedin.com/in/madiha-farman)[cite: 1]
